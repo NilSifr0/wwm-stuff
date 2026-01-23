@@ -59,20 +59,25 @@
 
 Before battle, go to the bathhouse of your associated character's sex and purchase the ==All-in-one go==
 service which costs **40 Commerce Coin (CC)**.
+
 ![all in one go option](./assets/{B81948A8-1684-415C-913D-3022C8C07028}.png)
+
 If the option is not yet available for you, you have to choose ==Pay the fee== option first for **10 CC** and when ever the NPC asks you if you want more massage, continue paying **10 CC**.
 
 ![bathhouse buff](./assets/{F5B950A5-1E22-4610-83D7-1F5775D98573}.png)
 <!-- omit from toc -->
 ##### Locations
 
-*Bathhouse for Male Characters*
+Bathhouse for Male Characters
+
 ![male bathhouse](./assets/{2DCC9C12-3575-4ED8-AC82-5689946EA91A}.png)
 
-*Bathhouse for Female Characters*
+Bathhouse for Female Characters
+
 ![female bathhouse](./assets/{95B37267-81C4-4984-8F06-46822D5700CE}.png)
 
 You can also get this buff by soaking at the Springwave Pavilion 2nd floor for **free** but it may take a while (*around 7 minutes*).
+
 ![shared bathhouse](./assets/{55C6F466-AC51-47FB-94B8-D1EAAFBE36B7}.png)
 
 #### Script and Food Buffs
