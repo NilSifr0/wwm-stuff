@@ -302,3 +302,5 @@ Note: In order of priority
    :maxdepth: 2
    :caption: Contents:
 
+   guild_war_prep_phase
+
