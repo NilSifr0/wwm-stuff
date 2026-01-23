@@ -54,7 +54,9 @@ If the option is not yet available for you, you have to choose **Pay the fee** o
 Locations
 ^^^^^^^^^
 
-- **Bathhouse for Male Characters** - [Male bathhouse location]
+- **Bathhouse for Male Characters**
+.. image:: /_static/{F5B950A5-1E22-4610-83D7-1F5775D98573}.png
+
 - **Bathhouse for Female Characters** - [Female bathhouse location]
 
 You can also get this buff by soaking at the Springwave Pavilion 2nd floor for **free** but it may take a while (around 7 minutes).
