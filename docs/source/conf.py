@@ -1,3 +1,5 @@
+import sphinx_pdj_theme
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -6,22 +8,22 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'wwm-guides'
-copyright = '2026, 虚无'
-author = '虚无'
+project = "wwm-guides"
+copyright = "2026, 虚无"
+author = "虚无"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = []
 
-templates_path = ['_templates']
+templates_path = ["_templates"]
 exclude_patterns = []
-
 
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
-html_static_path = ['_static']
+html_theme = "sphinx_pdj_theme"
+html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
+html_static_path = ["_static"]
