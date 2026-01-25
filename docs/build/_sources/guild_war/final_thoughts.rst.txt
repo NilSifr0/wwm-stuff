@@ -8,6 +8,3 @@ Final Thoughts
 - Commander buffs can flip fights instantly
 - Friendly matches are unlimited — use them to practice
 
-.. toctree::
-
-    

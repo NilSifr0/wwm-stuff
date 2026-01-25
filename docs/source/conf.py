@@ -26,5 +26,5 @@ exclude_patterns = []
 # html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
 # html_static_path = ["_static"]
 
-html_theme = "alabaster"
+html_theme = "shibuya"
 html_static_path = ["_static"]

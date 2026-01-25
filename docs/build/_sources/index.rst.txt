@@ -6,7 +6,7 @@
 wwm-guides documentation
 ========================
 
-A collection of guides for WWM written out of passion for the game.
+A collection of guides for WWM written out of passion for the game. I'll continue updating this as I learn more about the game.
 
 .. toctree::
    :maxdepth: 1

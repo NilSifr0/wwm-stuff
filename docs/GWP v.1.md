@@ -201,7 +201,7 @@ They are deployed on side lanes (top and bot).
 - 3 DPS[^4]
 - 1 Healer
 
-[^4]: consists of strategic and twinblade users as their skill sets are more suitable for skirmishes or small scale battle and single-target DPS
+[^4]: consists of strategic and Twin Blade users as their skill sets are more suitable for skirmishes or small scale battle and single-target DPS
 
 ### Team 3 (T3) - Spec Ops
 
@@ -269,3 +269,4 @@ Note: in order of priority
 - AoE healing is extremely strong — protect healers
 - Commander buffs can flip fights instantly
 - Friendly matches are unlimited — use them to practice
+
