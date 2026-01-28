@@ -13,5 +13,6 @@ A collection of guides for WWM written out of passion for the game. I'll continu
    :caption: Contents:
 
    guild_war/guild_war
+   my_st_71
    coming_soon
 
